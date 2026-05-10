@@ -1,0 +1,6 @@
+{
+  "name": "SkyCast",
+  "description": "A premium, glassmorphic weather application with dynamic backgrounds, hourly forecasts, and air quality insights inspired by Apple Weather.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
